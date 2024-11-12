@@ -1,2 +1,2 @@
 Workout Tracker
-  This is simple workout tracker wtih python, including streamlit library for a user Interface.
+This is simple workout tracker wtih python, including streamlit library for a user Interface.
